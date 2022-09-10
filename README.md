@@ -14,8 +14,8 @@ I'm a Hacking student
 
 ### 🤝 Connect with me:
 
-<a href="https://discord.com/users/493084892679372840"><img align="left" src="https://skillicons.dev/icons?i=discord" alt="Raul | Discord" width="21px"/></a>
-<a href="https://instagram.com/rtsp._"><img align="left" src="https://skillicons.dev/icons?i=instagram" alt="Raul | Instagram" width="21px"/></a>
+<a href="https://discord.com/users/493084892679372840"><img align="left" src="https://skillicons.dev/icons?i=discord" alt="Raul | Discord" width="25px"/></a>
+<a href="https://instagram.com/rtsp._"><img align="left" src="https://skillicons.dev/icons?i=instagram" alt="Raul | Instagram" width="25px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
