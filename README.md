@@ -35,6 +35,6 @@ I'm a Hacking student
 
 ## 📈 GitHub Stats 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raulp2007&count_private=true&theme=radical&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raulp2007&count_private=true&theme=prussian&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulp2007&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulp2007&layout=compact&theme=prussian)
