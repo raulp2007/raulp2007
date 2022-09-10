@@ -1,21 +1,40 @@
 <p align="center">
-  <a href="" target="_blank" rel="noreferrer"><img src="banner.png" alt="my banner"></a>
+  <a href="https://github.com/raulp2007" target="_blank" rel="noreferrer"><img src="banner.png" alt="my banner"></a>
 </p>
 
-## 💫 About Me:
-🌱 I’m currently learning Hacking/Python<br>💬 Talk to me on discord<br>⚡ Fun fact: I am a pianist
+<h3 align="center">
+Welcome, I'm Raul Pinheiro 👋
+</h3>
 
+<h2 align="center">
+I'm a Hacking student
+</h2> 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.com/users/493084892679372840) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rtsp._) 
+<p align="center">I like the way we can overcome problems to have access to the most diverse systems. I like to think outside the box and think that we can do things beyond what we see.</p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=raulp2007&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=raulp2007&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raulp2007&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 🤝 Connect with me:
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<a href="https://discord.com/users/493084892679372840"><img align="left" src="https://skillicons.dev/icons?i=discord" alt="Raul | Discord" width="21px"/></a>
+<a href="https://instagram.com/rtsp._"><img align="left" src="https://skillicons.dev/icons?i=instagram" alt="Raul | Instagram" width="21px"/></a>
+</br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
+## 🔭 I'm currently working on
+
+- My Python Skills
+- My Hacking Skills
+
+## 🌱 I'm currently learning
+
+- Python
+- Shell Script
+
+## 💼 Technical Skills
+
+[![My Skills](https://skillicons.dev/icons?i=python,linux,bash,vim,sqlite,mysql)](https://skillicons.dev)
+
+## 📈 GitHub Stats 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raulp2007&count_private=true&theme=radical&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulp2007&layout=compact&theme=radical)
