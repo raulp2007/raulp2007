@@ -1,4 +1,6 @@
-# Hi, my name is Raul Pinheiro👋</h3>
+<p align="center">
+  <a href="" target="_blank" rel="noreferrer"><img src="banner.png" alt="my banner"></a>
+</p>
 
 ## 💫 About Me:
 🌱 I’m currently learning Hacking/Python<br>💬 Talk to me on discord<br>⚡ Fun fact: I am a pianist
