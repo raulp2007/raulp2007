@@ -27,7 +27,7 @@ I'm a Robotic/AI student
 ## 🌱 I'm currently learning
 
 - Python
-- Shell Script
+- C
 
 ## 💼 Technical Skills
 
