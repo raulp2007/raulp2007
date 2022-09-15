@@ -7,7 +7,7 @@ Welcome, I'm Raul Pinheiro 👋
 </h3>
 
 <h2 align="center">
-I'm a Hacking student
+I'm a Robotic/AI student
 </h2> 
 
 <p align="center">I like the way we can overcome problems to have access to the most diverse systems. I like to think outside the box and think that we can do things beyond what we see.</p>
@@ -22,7 +22,7 @@ I'm a Hacking student
 ## 🔭 I'm currently working on
 
 - My Python Skills
-- My Hacking Skills
+- My C Skills
 
 ## 🌱 I'm currently learning
 
@@ -31,7 +31,7 @@ I'm a Hacking student
 
 ## 💼 Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,linux,bash,vim,sqlite,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,linux,bash,vim,sqlite,mysql)](https://skillicons.dev)
 
 ## 📈 GitHub Stats 
 
