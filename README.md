@@ -10,7 +10,7 @@ Welcome, I'm Raul Pinheiro 👋
 I'm a Robotic/AI student
 </h2> 
 
-<p align="center">I like the way we can overcome problems to have access to the most diverse systems. I like to think outside the box and think that we can do things beyond what we see.</p>
+<p align="center">I like the way the programming world can directly interact with the real world, and I found the gateway between these two worlds through robotics. I like to think outside the box.</p>
 
 ### 🤝 Connect with me:
 
