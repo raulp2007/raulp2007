@@ -26,11 +26,11 @@ I'm a High School student
 
 ## 🌱 I'm currently learning
 
-- Go
+- C
 
 ## 💼 Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 
 ## 📈 GitHub Stats 
 
