@@ -7,7 +7,7 @@ Welcome, I'm Raul Pinheiro 👋
 </h3>
 
 <h2 align="center">
-I'm a Robotic/AI student
+I'm a High School student
 </h2> 
 
 <p align="center">I like the way programming can directly interact with the real world, and I found the gateway between these two worlds through robotics.<br>I like to think outside the box.</p>
@@ -21,13 +21,12 @@ I'm a Robotic/AI student
 
 ## 🔭 I'm currently working on
 
-- My Python Skills
-- My C Skills
+- Nothing for now
+
 
 ## 🌱 I'm currently learning
 
-- Python
-- C
+- Go
 
 ## 💼 Technical Skills
 
