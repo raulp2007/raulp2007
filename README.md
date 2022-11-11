@@ -26,11 +26,11 @@ I'm a High School student
 
 ## 🌱 I'm currently learning
 
-- C
+- How to create a api
 
 ## 💼 Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,flask)](https://skillicons.dev)
 
 ## 📈 GitHub Stats 
 
