@@ -21,16 +21,16 @@ I'm a High School student
 
 ## 🔭 I'm currently working on
 
-- Nothing for now
+- Personal Project
 
 
 ## 🌱 I'm currently learning
 
-- Nothing for now
+- Flet Framework in Python
 
 ## 💼 Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,python)](https://skillicons.dev)
 
 ## 📈 GitHub Stats 
 
