@@ -26,11 +26,10 @@ I'm a High School student
 
 ## 🌱 I'm currently learning
 
-- Flet Framework in Python
-
+- Javascript, NextJS, MongoDB
 ## 💼 Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,python,javascript,next,mongodb)](https://skillicons.dev)
 
 ## 📈 GitHub Stats 
 
