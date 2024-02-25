@@ -21,15 +21,16 @@ I'm a High School student
 
 ## 🔭 I'm currently working on
 
-- Personal Project
+- Bioimformatics
 
 
 ## 🌱 I'm currently learning
 
-- Javascript, NextJS, MongoDB
+- Data Science, R
+
 ## 💼 Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,python,javascript,next,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,python,r)](https://skillicons.dev)
 
 ## 📈 GitHub Stats 
 
