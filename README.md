@@ -21,16 +21,16 @@ I'm a High School student
 
 ## 🔭 I'm currently working on
 
-- Bioimformatics
+- Nothing for now
 
 
 ## 🌱 I'm currently learning
 
-- Data Science, R
+- AI, Web Skills
 
 ## 💼 Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,python,r)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,python)](https://skillicons.dev)
 
 ## 📈 GitHub Stats 
 
