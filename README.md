@@ -34,6 +34,6 @@ I'm a High School student
 
 ## 📈 GitHub Stats 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raulp2007&count_private=true&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raulp2007&count_private=true&theme=prussian&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulp2007&theme=dark&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulp2007&theme=prussian&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
