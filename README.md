@@ -26,11 +26,11 @@ I'm a High School student
 
 ## 🌱 I'm currently learning
 
-- AI, Web Skills
+- Java, Web Skills
 
 ## 💼 Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,python,java)](https://skillicons.dev)
 
 ## 📈 GitHub Stats 
 
