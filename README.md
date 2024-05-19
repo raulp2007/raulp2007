@@ -30,7 +30,7 @@ I'm a High School student
 
 ## 💼 Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,windows,git,r)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,windows,git,python)](https://skillicons.dev)
 
 ## 📈 GitHub Stats 
 
